@@ -7,6 +7,7 @@ public class while {
             System.out.println(i);
             i++;
         }
+        System.out.println("bye" + i);
     }
     
 }
