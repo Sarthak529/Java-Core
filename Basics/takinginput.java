@@ -2,8 +2,7 @@ import java.util.Scanner;
 
 public class takinginput {
 
-
-void main() {
+    public static void main(String[] args) {
 //    int a =5 ;
 //    int b = 6;
       Scanner sc = new Scanner(System.in);
@@ -13,6 +12,7 @@ void main() {
       int num2 = sc.nextInt();
       int num3 = num + num2;
       System.out.println("The sum is " + num3);
+      sc.close();
 }
 }
 
