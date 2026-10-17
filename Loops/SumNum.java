@@ -7,7 +7,7 @@ public class SumNum {
         int n = sc.nextInt();
         for(int  i =1; i<=n ; i++){
             sum = sum + i;
-            System.out.println( sum);
+            System.out.println("sum of numbers:" + i + sum);
         }
         sc.close();
     }
