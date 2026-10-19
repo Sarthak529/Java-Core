@@ -6,6 +6,7 @@ public class SolidRightAngleTri {
                 System.out.print("* ");
             }
             System.out.println();
+
         }
     }
 }
