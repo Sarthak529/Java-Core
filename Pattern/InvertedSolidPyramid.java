@@ -9,6 +9,7 @@ public class InvertedSolidPyramid {
 //            for stars
             for(int col = 1; col <= 2*n  - 2*row + 1  ; col++) {
                 System.out.print("* ");
+
             }
             System.out.println();
         }
