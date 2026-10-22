@@ -30,6 +30,7 @@ public class HollowDiamond {
             if( row == n - 1) {
                 System.out.print("* ");
             }
+
             else{
                 System.out.print("* ");
                 for(int col = 1; col<= 2* (n -row) -3; col++) {
