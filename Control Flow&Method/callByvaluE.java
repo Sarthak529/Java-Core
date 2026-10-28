@@ -1,6 +1,6 @@
 public class callByvaluE {
     static void solve(int num){
-        System.out.println("inside solve :  f" + num);
+        System.out.println("inside solve :  " + num);
         num = num * 10;
         System.out.println("inside solve :" + num);
     }
